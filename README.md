@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🧾 Smart Contract
+- **Name**: NEKOXAU
+- **Symbol**: NEKOXAU
+- **Total Supply**: 21,000,000
+- **Decimals**: 18
+- **Verified Contract Address**: [`0xbf824DAFA61F7c1FEc739b4914a7fF867284dcAd`](https://etherscan.io/address/0xbf824DAFA61F7c1FEc739b4914a7fF867284dcAd)
 
-<!--
-**NEKOXAU/NEKOXAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔒 Token Structure
+- 🔁 Non-mintable
+- 🔥 No burn
+- 💸 No tax
+- ❌ No owner
+- 🔏 Immutable
+- ✅ Based on OpenZeppelin ERC-20
+- 
+## 🔒 Token Lock Status
+- ✅ **95% of total supply is locked** via [Team.Finance](https://www.team.finance/view-coin/0xbf824DAFA61F7c1FEc739b4914a7fF867284dcAd?name=NEKOXAU&symbol=NEKOXAU&chainid=0x1)
+- ⏳ Unlock Date: **July 20, 2029**
+- 🔁 Lock platform: Team.Finance (no token cut, unlike UNCX)
+- 📄 Verified on-chain, viewable by public
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “This isn’t just a meme — it’s commitment. It’s digital legacy.”
